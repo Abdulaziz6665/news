@@ -63,6 +63,13 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Test api "/login" and "/news" endpoint
+
+```bash
+swagger
+http://localhost:PORT/api
+```
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
